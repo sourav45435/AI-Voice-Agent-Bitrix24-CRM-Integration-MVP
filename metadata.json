@@ -1,0 +1,8 @@
+{
+  "name": "Remix FLUX - AI Research \u0026 Workspace",
+  "description": "Your personal AI assistant for documents, research, and knowledge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
